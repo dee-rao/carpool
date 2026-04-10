@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: carpool
+Version: 0.0.0
+Summary: Carpool project
+Author: dee-rao
+Requires-Python: >=3.11
+License-File: LICENSE
+Dynamic: license-file

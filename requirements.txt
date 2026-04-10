@@ -1,0 +1,8 @@
+# Runtime dependencies
+requests>=2.31.0
+fastapi>=0.135.0
+uvicorn[standard]>=0.44.0
+
+# Development/test tools
+pytest>=7.0.0
+black>=24.1.0

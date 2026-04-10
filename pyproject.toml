@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "carpool"
+version = "0.0.0"
+description = "Carpool project"
+authors = [ { name = "dee-rao" } ]
+requires-python = ">=3.11"
+
+# Optional: add dependencies under 'dependencies' when you need them:
+# dependencies = ["requests>=2.0"]
